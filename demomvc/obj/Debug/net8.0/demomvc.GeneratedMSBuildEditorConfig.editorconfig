@@ -26,6 +26,38 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\PTPMQL\demomvc
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/PTPMQL/demomvc/demomvc/Views/Home/Demo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZGVtb212Y1xWaWV3c1xIb21lXERlbW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PTPMQL/demomvc/demomvc/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZGVtb212Y1xWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PTPMQL/demomvc/demomvc/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZGVtb212Y1xWaWV3c1xIb21lXFByaXZhY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PTPMQL/demomvc/demomvc/Views/person/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZGVtb212Y1xWaWV3c1xwZXJzb25caW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PTPMQL/demomvc/demomvc/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZGVtb212Y1xWaWV3c1xTaGFyZWRcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PTPMQL/demomvc/demomvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZGVtb212Y1xWaWV3c1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PTPMQL/demomvc/demomvc/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZGVtb212Y1xWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PTPMQL/demomvc/demomvc/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZGVtb212Y1xWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/PTPMQL/demomvc/Views/Home/Demo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZW1vLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -57,6 +89,10 @@ build_metadata.AdditionalFiles.CssScope =
 [D:/PTPMQL/demomvc/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PTPMQL/demomvc/demomvc/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZGVtb212Y1xWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-rnrouncqqu
 
 [D:/PTPMQL/demomvc/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
