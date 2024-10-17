@@ -3,11 +3,11 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using DEMOMVC.Data;
+using demomvc.Data;
 
 #nullable disable
 
-namespace DEMOMVC.Migrations
+namespace demomvc.Migrations
 {
     [DbContext(typeof(ApplicationDbcontext))]
     [Migration("20240921102133_Create_table_Person")]

@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace DEMOMVC.Migrations
+namespace demomvc.Migrations
 {
     /// <inheritdoc />
     public partial class Create_table_Person : Migration

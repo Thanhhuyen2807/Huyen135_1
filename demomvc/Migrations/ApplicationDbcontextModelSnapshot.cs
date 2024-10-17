@@ -2,11 +2,11 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using DEMOMVC.Data;
+using demomvc.Data;
 
 #nullable disable
 
-namespace DEMOMVC.Migrations
+namespace demomvc.Migrations
 {
     [DbContext(typeof(ApplicationDbcontext))]
     partial class ApplicationDbcontextModelSnapshot : ModelSnapshot
